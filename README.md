@@ -2,7 +2,7 @@
 
 Aprender a desenvolver aplicativos em containers é uma habilidade valiosa, especialmente para quem trabalha com DevOps, desenvolvimento de software e infraestrutura de TI. Containers são uma forma de empacotar e distribuir aplicativos com todas as suas dependências, facilitando o desenvolvimento, a implementação e a escalabilidade. Aqui está um guia básico para você começar:
 
-### 1. **Conceitos Básicos de Containers**
+### 1. **Conceitos Básicos de Containers** <------ AQUI
    - **O que é um container?** Entenda o conceito de containers e como eles diferem de máquinas virtuais.
    - **Docker:** É a tecnologia de container mais popular. Aprender Docker é um excelente ponto de partida.
    - **Orquestração de Containers:** Ferramentas como Kubernetes ajudam a gerenciar e escalar aplicativos em containers.
